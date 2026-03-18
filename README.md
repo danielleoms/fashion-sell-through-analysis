@@ -8,6 +8,12 @@ O objetivo é apoiar decisões comerciais mais assertivas, como estratégias de 
 
 ---
 
+
+## 🖥️ Visualização do Dashboard
+
+[Dashboard Sell-Through & Inventory Performance Analysis](https://app.powerbi.com/view?r=eyJrIjoiNGYzZDU2NmUtZGYxYy00ZjczLWEzNWItNzA1OGY0ZWEyZTM4IiwidCI6IjZkYzZjNzEyLWZhYTYtNDgxZS1hMmE0LTdiOGI3ZWZjM2U3NSJ9)
+
+
 ## 🧪 Engenharia de Dados (Simulação)
 
 Os dados foram gerados utilizando **Python**, simulando um ambiente de **data lake real de varejo**.
