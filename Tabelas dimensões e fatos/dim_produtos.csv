@@ -1,0 +1,61 @@
+Id_Produto,Nome_Produto,Linha,Categoria,Grupo,Look,Colecao,Ano_Colecao,Preco_Base,Colecao_Ano,Flag_Colecao_Passada,Perfil_Produto,Peso_Venda
+1,Produto 1,Tricot,Regatas,Full Look,Lisos,Primavera,2025,127.93,Primavera 2025,0,Hero,2.2
+2,Produto 2,Malhas,T-Shirt,Full Look,Bordados,Primavera,2024,129.71,Primavera 2024,1,Normal,1.0
+3,Produto 3,Alfaiataria,Shorts e Bermudas,Bottom,Estampados,Inverno,2024,467.75,Inverno 2024,1,Encalhado,0.22
+4,Produto 4,Alfaiataria,Macacoes,Bottom,Lurex,Verao,2024,321.96,Verao 2024,1,Normal,1.0
+5,Produto 5,Jeans,Vestidos,Bottom,Conjuntos,Primavera,2024,153.04,Primavera 2024,1,Normal,1.0
+6,Produto 6,Jeans,Vestidos,Top,Estampados,Primavera,2025,255.78,Primavera 2025,0,Hero,2.2
+7,Produto 7,GGT,Blusas,Bottom,Conjuntos,Outono,2024,320.2,Outono 2024,1,Normal,1.0
+8,Produto 8,Malhas,Vestidos,Top,Bordados,Primavera,2024,176.11,Primavera 2024,1,Normal,1.0
+9,Produto 9,Alfaiataria,Saias,Top,Bordados,Primavera,2024,408.15,Primavera 2024,1,Encalhado,0.22
+10,Produto 10,Alfaiataria,Vestidos,Bottom,Lisos,Outono,2024,184.69,Outono 2024,1,Normal,1.0
+11,Produto 11,GGT,Shorts e Bermudas,Bottom,Lurex,Inverno,2025,133.44,Inverno 2025,0,Normal,1.0
+12,Produto 12,Malhas,Blusas,Bottom,Conjuntos,Primavera,2025,258.15,Primavera 2025,0,Hero,2.2
+13,Produto 13,Malhas,Shorts e Bermudas,Full Look,Estampados,Outono,2025,260.57,Outono 2025,0,Hero,2.2
+14,Produto 14,Jeans,Shorts e Bermudas,Bottom,Bordados,Verao,2024,285.73,Verao 2024,1,Normal,1.0
+15,Produto 15,Jeans,Camisas,Full Look,Lisos,Inverno,2024,308.78,Inverno 2024,1,Normal,1.0
+16,Produto 16,Jeans,Blusas,Top,Lisos,Verao,2025,373.72,Verao 2025,0,Normal,1.0
+17,Produto 17,Tricot,Shorts e Bermudas,Full Look,Conjuntos,Verao,2024,254.24,Verao 2024,1,Normal,1.0
+18,Produto 18,Alfaiataria,Camisas,Bottom,Bordados,Outono,2025,259.28,Outono 2025,0,Normal,1.0
+19,Produto 19,Linho,Camisas,Top,Lurex,Primavera,2025,326.75,Primavera 2025,0,Normal,1.0
+20,Produto 20,Tricot,Blusas,Top,Bordados,Outono,2025,190.42,Outono 2025,0,Hero,2.2
+21,Produto 21,Alfaiataria,T-Shirt,Top,Conjuntos,Outono,2024,337.79,Outono 2024,1,Encalhado,0.22
+22,Produto 22,Jeans,Macacoes,Full Look,Conjuntos,Outono,2024,140.4,Outono 2024,1,Normal,1.0
+23,Produto 23,Tricot,Saias,Bottom,Bordados,Outono,2025,126.59,Outono 2025,0,Hero,2.2
+24,Produto 24,Tricot,Macacoes,Top,Conjuntos,Inverno,2024,370.29,Inverno 2024,1,Normal,1.0
+25,Produto 25,Linho,Vestidos,Top,Bordados,Primavera,2024,337.35,Primavera 2024,1,Normal,1.0
+26,Produto 26,Malhas,Saias,Top,Estampados,Verao,2024,300.95,Verao 2024,1,Normal,1.0
+27,Produto 27,Jeans,Vestidos,Full Look,Bordados,Verao,2025,226.33,Verao 2025,0,Hero,2.2
+28,Produto 28,Alfaiataria,Shorts e Bermudas,Full Look,Bordados,Primavera,2024,207.64,Primavera 2024,1,Normal,1.0
+29,Produto 29,Alfaiataria,Regatas,Bottom,Conjuntos,Verao,2024,229.07,Verao 2024,1,Normal,1.0
+30,Produto 30,GGT,Blusas,Full Look,Conjuntos,Primavera,2024,185.06,Primavera 2024,1,Normal,1.0
+31,Produto 31,Alfaiataria,Saias,Top,Lisos,Verao,2024,402.63,Verao 2024,1,Encalhado,0.22
+32,Produto 32,Jeans,Saias,Bottom,Lisos,Outono,2025,305.79,Outono 2025,0,Normal,1.0
+33,Produto 33,GGT,Shorts e Bermudas,Top,Estampados,Verao,2024,291.65,Verao 2024,1,Normal,1.0
+34,Produto 34,Malhas,T-Shirt,Top,Lisos,Primavera,2024,192.78,Primavera 2024,1,Normal,1.0
+35,Produto 35,Malhas,Camisas,Full Look,Bordados,Primavera,2025,368.26,Primavera 2025,0,Normal,1.0
+36,Produto 36,Malhas,Shorts e Bermudas,Bottom,Conjuntos,Primavera,2025,311.85,Primavera 2025,0,Normal,1.0
+37,Produto 37,Tricot,Calcas,Full Look,Lisos,Primavera,2024,264.13,Primavera 2024,1,Normal,1.0
+38,Produto 38,GGT,Camisas,Full Look,Lisos,Primavera,2024,279.05,Primavera 2024,1,Normal,1.0
+39,Produto 39,Alfaiataria,Blusas,Bottom,Estampados,Inverno,2024,325.93,Inverno 2024,1,Encalhado,0.22
+40,Produto 40,Linho,Camisas,Top,Estampados,Inverno,2024,184.41,Inverno 2024,1,Normal,1.0
+41,Produto 41,Jeans,T-Shirt,Top,Bordados,Verao,2025,212.55,Verao 2025,0,Hero,2.2
+42,Produto 42,Alfaiataria,Camisas,Bottom,Conjuntos,Primavera,2025,433.22,Primavera 2025,0,Normal,1.0
+43,Produto 43,GGT,Blusas,Top,Estampados,Verao,2025,123.74,Verao 2025,0,Normal,1.0
+44,Produto 44,Malhas,T-Shirt,Bottom,Lisos,Primavera,2025,150.18,Primavera 2025,0,Hero,2.2
+45,Produto 45,Tricot,Macacoes,Bottom,Conjuntos,Primavera,2024,131.96,Primavera 2024,1,Normal,1.0
+46,Produto 46,Alfaiataria,Saias,Full Look,Conjuntos,Inverno,2024,188.44,Inverno 2024,1,Normal,1.0
+47,Produto 47,Tricot,Saias,Bottom,Lisos,Inverno,2025,342.42,Inverno 2025,0,Normal,1.0
+48,Produto 48,Alfaiataria,Vestidos,Full Look,Estampados,Outono,2024,420.34,Outono 2024,1,Encalhado,0.22
+49,Produto 49,Alfaiataria,Macacoes,Top,Lisos,Inverno,2024,343.94,Inverno 2024,1,Encalhado,0.22
+50,Produto 50,Jeans,Macacoes,Top,Conjuntos,Outono,2025,145.44,Outono 2025,0,Hero,2.2
+51,Produto 51,Malhas,Camisas,Top,Lurex,Outono,2025,247.82,Outono 2025,0,Hero,2.2
+52,Produto 52,Alfaiataria,Saias,Top,Lurex,Outono,2024,372.54,Outono 2024,1,Encalhado,0.22
+53,Produto 53,Malhas,Blusas,Full Look,Bordados,Outono,2024,165.03,Outono 2024,1,Normal,1.0
+54,Produto 54,Malhas,Jaquetas e Casacos,Top,Lisos,Outono,2024,232.8,Outono 2024,1,Normal,1.0
+55,Produto 55,Alfaiataria,Jaquetas e Casacos,Bottom,Lisos,Verao,2024,305.41,Verao 2024,1,Normal,1.0
+56,Produto 56,Malhas,T-Shirt,Bottom,Bordados,Inverno,2024,280.12,Inverno 2024,1,Normal,1.0
+57,Produto 57,GGT,Saias,Bottom,Bordados,Outono,2024,285.12,Outono 2024,1,Normal,1.0
+58,Produto 58,Jeans,Saias,Full Look,Bordados,Primavera,2024,131.78,Primavera 2024,1,Normal,1.0
+59,Produto 59,GGT,Jaquetas e Casacos,Top,Conjuntos,Inverno,2024,217.4,Inverno 2024,1,Normal,1.0
+60,Produto 60,Tricot,Saias,Top,Lisos,Inverno,2024,282.72,Inverno 2024,1,Normal,1.0

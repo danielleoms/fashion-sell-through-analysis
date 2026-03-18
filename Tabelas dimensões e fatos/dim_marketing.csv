@@ -1,0 +1,8 @@
+Id_Marketing,Source,Medium,Canal_Midia,Campaign,Canal_Venda_Padrao
+1,google,cpc,Google Ads,Promo,Site
+2,google,organic,Google Organic,SEO,Site
+3,instagram,paid_social,Instagram Ads,Remarketing,App
+4,facebook,paid_social,Facebook Ads,Institucional,Site
+5,direct,none,Direct,Direto,Site
+6,email,email,Email,CRM,Site
+7,referral,referral,Referral,Parceiros,Site
