@@ -2,27 +2,27 @@
 
 ## 📌 Visão Geral
 
-Este projeto apresenta uma análise completa de desempenho de produtos no varejo, utilizando a métrica de **sell-through** como principal indicador para avaliar eficiência de vendas e identificar oportunidades de otimização de estoque.
+Este projeto apresenta uma análise completa do desempenho de produtos no varejo, utilizando a métrica de **sell-through** como principal indicador para avaliar a eficiência de vendas e identificar oportunidades de otimização de estoque.
 
-O objetivo é apoiar decisões comerciais mais assertivas, como estratégias de precificação, campanhas e liquidação de produtos.
+O objetivo é apoiar decisões comerciais mais assertivas, como estratégias de precificação, campanhas promocionais e liquidação de produtos.
 
 ---
 
-
 ## 🖥️ Visualização do Dashboard
 
-[Dashboard Sell-Through & Inventory Performance Analysis] (https://app.powerbi.com/view?r=eyJrIjoiNGYzZDU2NmUtZGYxYy00ZjczLWEzNWItNzA1OGY0ZWEyZTM4IiwidCI6IjZkYzZjNzEyLWZhYTYtNDgxZS1hMmE0LTdiOGI3ZWZjM2U3NSJ9&pageName=f625580d72775b31670d)
+🔗 [Acessar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGYzZDU2NmUtZGYxYy00ZjczLWEzNWItNzA1OGY0ZWEyZTM4IiwidCI6IjZkYzZjNzEyLWZhYTYtNDgxZS1hMmE0LTdiOGI3ZWZjM2U3NSJ9&pageName=f625580d72775b31670d)
 
+---
 
 ## 🧪 Engenharia de Dados (Simulação)
 
-Os dados foram gerados utilizando **Python**, simulando um ambiente de **data lake real de varejo**.
+Os dados foram gerados utilizando **Python**, simulando um ambiente real de **data lake no varejo**.
 
 A modelagem contempla:
 
-* Histórico de vendas
-* Níveis de estoque ao longo do tempo
-* Atributos estratégicos de produto (linha, coleção, faixa de preço)
+- Histórico de vendas  
+- Níveis de estoque ao longo do tempo  
+- Atributos estratégicos de produto (linha, coleção e faixa de preço)  
 
 Essa abordagem permite trabalhar com cenários realistas e validar regras de negócio em um contexto próximo ao ambiente corporativo.
 
@@ -30,10 +30,10 @@ Essa abordagem permite trabalhar com cenários realistas e validar regras de neg
 
 ## 📈 Principais Indicadores
 
-* **Sell-through (%)** → Eficiência de venda sobre o total disponível
-* **Estoque Atual** → Volume disponível para comercialização
-* **Classificação de Performance** → Segmentação de produtos por desempenho
-* **Ações Sugeridas** → Direcionamento estratégico baseado em dados
+- **Sell-through (%)** → Eficiência de vendas sobre o total disponível  
+- **Estoque Atual** → Volume disponível para comercialização  
+- **Classificação de Performance** → Segmentação dos produtos por desempenho  
+- **Ações Sugeridas** → Direcionamento estratégico baseado em dados  
 
 ---
 
@@ -41,14 +41,16 @@ Essa abordagem permite trabalhar com cenários realistas e validar regras de neg
 
 ### Sell-through
 
-Sell-through = Vendido / (Vendido + Estoque atual)
+**Sell-through = Vendido / (Vendido + Estoque Atual)**
+
+---
 
 ### Classificação de Performance
 
-* 🔴 **Encalhado** → ST < 30%
-* 🟠 **Baixo Giro** → ST < 50%
-* 🟡 **Performance Média** → ST entre 50% e 70%
-* 🟢 **Alta Performance** → ST ≥ 70%
+- 🔴 **Encalhado** → ST < 30%  
+- 🟠 **Baixo Giro** → ST < 50%  
+- 🟡 **Performance Média** → ST entre 50% e 70%  
+- 🟢 **Alta Performance** → ST ≥ 70%  
 
 ---
 
@@ -56,25 +58,25 @@ Sell-through = Vendido / (Vendido + Estoque atual)
 
 As recomendações são geradas com base em múltiplas variáveis:
 
-* Linha do produto
-* Ano da coleção
-* Posicionamento de preço
-* Sell-through
-* Nível de estoque
+- Linha do produto  
+- Ano da coleção  
+- Posicionamento de preço  
+- Sell-through  
+- Nível de estoque  
 
 ### Exemplos de decisões:
 
-* Produtos com baixo desempenho e alto estoque → **Liquidação ou campanha**
-* Produtos com performance intermediária → **Ajuste de preço**
-* Produtos com alta performance → **Manutenção da estratégia atual**
+- Produtos com baixo desempenho e alto estoque → **Liquidação ou campanhas promocionais**  
+- Produtos com performance intermediária → **Ajustes de preço**  
+- Produtos com alta performance → **Manutenção da estratégia atual**  
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-* **Power BI** → Visualização e construção do dashboard
-* **DAX** → Modelagem de métricas e regras de negócio
-* **Python** → Geração e simulação dos dados
+- **Power BI** → Visualização e construção do dashboard  
+- **DAX** → Modelagem de métricas e regras de negócio  
+- **Python** → Geração e simulação dos dados  
 
 ---
 
@@ -86,14 +88,14 @@ As recomendações são geradas com base em múltiplas variáveis:
 
 ## 💡 Principais Insights
 
-* Identificação rápida de produtos com baixa performance
-* Priorização de ações comerciais baseada em dados
-* Apoio à gestão estratégica de estoque
-* Visão integrada entre vendas e disponibilidade
+- Identificação rápida de produtos com baixa performance  
+- Priorização de ações comerciais baseada em dados  
+- Apoio à gestão estratégica de estoque  
+- Visão integrada entre vendas e disponibilidade  
 
 ---
 
 ## 👤 Autor
 
-**Danielle Moreno**
-Data Analyst | Business Intelligence
+**Danielle Moreno**  
+Data Analyst | Business Intelligence  
