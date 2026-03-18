@@ -11,7 +11,7 @@ O objetivo é apoiar decisões comerciais mais assertivas, como estratégias de 
 
 ## 🖥️ Visualização do Dashboard
 
-[Dashboard Sell-Through & Inventory Performance Analysis](https://app.powerbi.com/view?r=eyJrIjoiNGYzZDU2NmUtZGYxYy00ZjczLWEzNWItNzA1OGY0ZWEyZTM4IiwidCI6IjZkYzZjNzEyLWZhYTYtNDgxZS1hMmE0LTdiOGI3ZWZjM2U3NSJ9)
+[Dashboard Sell-Through & Inventory Performance Analysis]([https://app.powerbi.com/view?r=eyJrIjoiNGYzZDU2NmUtZGYxYy00ZjczLWEzNWItNzA1OGY0ZWEyZTM4IiwidCI6IjZkYzZjNzEyLWZhYTYtNDgxZS1hMmE0LTdiOGI3ZWZjM2U3NSJ9](https://app.powerbi.com/view?r=eyJrIjoiNGYzZDU2NmUtZGYxYy00ZjczLWEzNWItNzA1OGY0ZWEyZTM4IiwidCI6IjZkYzZjNzEyLWZhYTYtNDgxZS1hMmE0LTdiOGI3ZWZjM2U3NSJ9&pageName=f625580d72775b31670d))
 
 
 ## 🧪 Engenharia de Dados (Simulação)
